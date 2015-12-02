@@ -141,7 +141,7 @@ var ISO3166List = []ISO3166Entry{
 	{"Chad", "Tchad (le)", "TD", "TCD", "148"},
 	{"Chile", "Chili (le)", "CL", "CHL", "152"},
 	{"China", "Chine (la)", "CN", "CHN", "156"},
-	{"Taiwan (Province of China)", "Taïwan (Province de Chine)", "TW", "TWN", "158"},
+	{"Taiwan", "Taïwan", "TW", "TWN", "158"},
 	{"Christmas Island", "Christmas (l'Île)", "CX", "CXR", "162"},
 	{"Cocos (Keeling) Islands (the)", "Cocos (les Îles)/ Keeling (les Îles)", "CC", "CCK", "166"},
 	{"Colombia", "Colombie (la)", "CO", "COL", "170"},
